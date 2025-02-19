@@ -1,5 +1,6 @@
 # ATM-machine-logic-using-code-java
-ATM Machine Simulation
+#ATM Machine Simulation
+
 This project is a simple simulation of an ATM machine implemented in Java. It provides basic functionalities such as checking balance, depositing money, withdrawing money, and exiting the application.
 
 #Features
